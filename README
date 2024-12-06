@@ -1,1 +1,44 @@
-Python 101
+# Python 101 🚀  
+Welcome to **Python 101**! This repository is designed for beginners to learn Python programming from scratch. Whether you're a student, hobbyist, or budding developer, this guide will help you get started on your Python journey.
+
+## 📖 Table of Contents  
+- [Introduction](#introduction)  
+- [Getting Started](#getting-started)  
+- [Course Content](#course-content)  
+- [Contributing](#contributing)  
+- [License](#license)  
+
+---
+
+## Introduction  
+Python is a powerful, versatile, and beginner-friendly programming language. This repository covers the basics of Python and gradually progresses to more advanced topics, including:  
+- Variables and Data Types  
+- Loops and Conditionals  
+- Functions and Modules  
+- File Handling  
+- Numpy  
+- APIs 
+- Working with Libraries  
+
+---
+
+## Getting Started  
+### Prerequisites  
+1. **Python Installed**: [Download Python](https://www.python.org/downloads/) for your operating system.  
+2. **Code Editor**: We recommend [Visual Studio Code](https://code.visualstudio.com/) or [PyCharm](https://www.jetbrains.com/pycharm/).  
+
+### Installation  
+ Clone the repository:  
+   ```bash  
+   git clone https://github.com/your-username/python-101.git  
+   cd python-101  
+   ```  
+
+---
+
+
+Happy coding! 😄 If you find this helpful, give it a ⭐ and share it with your friends.  
+
+---
+
+Let me know if you'd like additional sections like resources, FAQs, or examples.
